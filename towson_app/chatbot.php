@@ -75,5 +75,7 @@
         }
     </script>
 </body>
+<button onclick="history.back()" class="go-back-button">← Go Back</button>
+
 </html>
 
